@@ -12,7 +12,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Neon-4169E1?style=for-the-badge&logo=postgresql)](https://neon.tech)
 [![Gemini AI](https://img.shields.io/badge/Gemini-AI-8B5CF6?style=for-the-badge&logo=google)](https://ai.google.dev)
 
-![FlashHire Demo](https://placehold.co/900x450/0f172a/6366f1?text=FlashHire+%E2%80%94+AI+Resume+Optimizer&font=raleway)
+![FlashHire Demo](https://raw.githubusercontent.com/SibatSajjad20/flashhire/main/public/demo.png)
 
 </div>
 
